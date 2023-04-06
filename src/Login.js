@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import './Login.css'
 import { Link,} from "react-router-dom";
-import StorefrontIcon from '@material-ui/icons/Storefront';
+import StorefrontIcon from "@mui/icons-material/Storefront";
 // import { auth } from "./firebase";
 
 function Login() {

@@ -1,5 +1,5 @@
 /* eslint-disable no-unused-vars */
-import { SportsBasketball } from "@material-ui/icons";
+// import { SportsBasketball } from "@material-ui/icons";
 import React from "react";
 import "./Checkout.css";
 import CheckoutProduct from "./CheckoutProduct";
